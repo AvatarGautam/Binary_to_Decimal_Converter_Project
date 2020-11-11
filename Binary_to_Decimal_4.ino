@@ -63,5 +63,4 @@ void loop(){
  lcd.setCursor(8,1);
  lcd.print(sum,DEC);
  delay(500);
- 
 }
